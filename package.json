@@ -1,0 +1,28 @@
+{
+  "name": "browserify-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaelYasmina/browserify-tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaelYasmina/browserify-tut/issues"
+  },
+  "homepage": "https://github.com/WaelYasmina/browserify-tut#readme",
+  "dependencies": {
+    "animejs": "^3.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babelify": "^10.0.0"
+  }
+}
